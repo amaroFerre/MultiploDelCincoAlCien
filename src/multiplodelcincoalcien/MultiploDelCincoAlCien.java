@@ -27,6 +27,16 @@ public class MultiploDelCincoAlCien {
     
     Scanner entrada = new Scanner(System.in);
     
+    //Creo el bucle for
+    
+    for (int i = 0; i < 100; i+=5) {
+      
+      // Imprimo los multiplos de 5
+      
+      System.out.println(i);
+      
+    }
+    
     
   }
   
