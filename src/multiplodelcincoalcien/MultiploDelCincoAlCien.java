@@ -5,6 +5,8 @@
  */
 package multiplodelcincoalcien;
 
+//Muestra los números múltiplos de 5 de 0 a 100 utilizando un bucle for.
+
 //Importo el paquete java.util para poder utilizar la clase Scanner
 
 import java.util.*;
@@ -20,6 +22,12 @@ public class MultiploDelCincoAlCien {
    */
   public static void main(String[] args) {
     // TODO code application logic here
+    
+    // Creo un objeto de la clase Scanner
+    
+    Scanner entrada = new Scanner(System.in);
+    
+    
   }
   
 }
